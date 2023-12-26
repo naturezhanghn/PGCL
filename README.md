@@ -1,5 +1,5 @@
 ## Note: The code will be made publicly available once the paper is accepted.
-# PGCL: Prior-Guided Cooperative Learning for 2D Atmospheric Turbulence Strength Estimation and Infrared Image Restoration
+# PGCL(Prior-Guided Cooperative Learning framework)
 This repository contains the implementation of the Prior-Guided Cooperative Learning (PGCL) framework as described in our paper "Joint 2D Atmospheric Turbulence Strength Estimation and Infrared Image Restoration Using Optics Prior Guided Cooperative Learning". PGCL introduces a novel approach for atmospheric turbulence measurement and infrared image restoration, integrating two transformer-based models - TMNet and TRNet - guided by optical priors.
 
 ## Author
